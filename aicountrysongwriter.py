@@ -1,5 +1,5 @@
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 import future
 import openai
 import tkinter as tk
